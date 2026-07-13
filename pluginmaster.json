@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "Ivory Lion Trading Co.",
+    "Name": "Ivory Lion Ledger Sync",
+    "InternalName": "IvoryLionLedger",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Syncs your fish log, mounts, minions, orchestrions, emotes, Triple Triad cards, and crafter stats to your Free Company's Ivory Lion Ledger site. Sign in with your Ledger account under /ledger.",
+    "Punchline": "Your fish log, on the company books.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/unremarkably/ledger",
+    "Tags": ["fishing", "collections", "free company"],
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/unremarkably/ledger/main/IvoryLionLedger.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/unremarkably/ledger/main/IvoryLionLedger.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/unremarkably/ledger/main/IvoryLionLedger.zip"
+  }
+]
