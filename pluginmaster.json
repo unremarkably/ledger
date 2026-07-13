@@ -3,7 +3,7 @@
     "Author": "Ivory Lion Trading Co.",
     "Name": "Ivory Lion Ledger Sync",
     "InternalName": "IvoryLionLedger",
-    "AssemblyVersion": "0.1.0.1",
+    "AssemblyVersion": "0.1.0.2",
     "Description": "Syncs your fish log, mounts, minions, orchestrions, emotes, Triple Triad cards, and crafter stats to your Free Company's Ivory Lion Ledger site. Sign in with your Ledger account under /ledger.",
     "Punchline": "Your fish log, on the company books.",
     "ApplicableVersion": "any",
